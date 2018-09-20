@@ -1,0 +1,23 @@
+//in the format [skill:level]
+1- FRONTEND	
+	1- HTML : Intermedite
+	2- CSS : Intermediate
+	3- Javascript: Expert
+	4- jQuery: Intermediate
+	5- Bootstrap: Intermediate
+	6- Angular: Begineer
+2- BACKEND
+	1- PHP: Intermediate
+	2- SQL via MySQL: Intermediate
+	3- Express.js: Intermediate
+	4- Node.js: Intermediate
+	5- NoSQL via MongoDB : Intermediate
+	6- C# ASP.NET : Beginner
+3- CS
+	1- Problem Solving Techniques : Intermediate
+	2- Algorithms and DS : Beginner
+	3- CyberSecurity: Beginner
+4- Others
+	1- Git : Intermediate
+	2- Soft: Beginner
+	3- Agile Dev: Beginner
